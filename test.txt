@@ -1,0 +1,1011 @@
+Tasohyppelypeli tallennustiedosto
+
+#Game information
+Saved: 2019-04-22 18:30
+Created by Sami Mannila.
+Copyright © 2019 Sami Mannila. All rights reserved.
+
+#Player
+
+Player_name: Incognito
+Player_X: 22
+Player_Y: 22
+Player_Facing: 1
+
+#Enemies
+
+Enemy_name: Dumb
+Enemy_X: 559.0
+Enemy_Y: 560.0
+Enemy_Facing: -1
+
+#Enemies
+
+Enemy_name: Dumb
+Enemy_X: 1153.0
+Enemy_Y: 276.0
+Enemy_Facing: -1
+
+#Enemies
+
+Enemy_name: Dumb
+Enemy_X: 1046.0
+Enemy_Y: 275.0
+Enemy_Facing: -1
+
+#Enemies
+
+Enemy_name: Attacker
+Enemy_X: 1217.0
+Enemy_Y: 220.0
+Enemy_Facing: -1
+
+#Enemies
+
+Enemy_name: Attacker
+Enemy_X: 2341.0
+Enemy_Y: 542.0
+Enemy_Facing: -1
+
+#Enemies
+
+Enemy_name: Turner
+Enemy_X: 1637.0
+Enemy_Y: 362.0
+Enemy_Facing: -1
+
+#Squares
+
+Square_Type: Element
+Square_X: 0
+Square_Y: 594
+
+#Squares
+
+Square_Type: Element
+Square_X: 0
+Square_Y: 616
+
+#Squares
+
+Square_Type: Element
+Square_X: 0
+Square_Y: 638
+
+#Squares
+
+Square_Type: Element
+Square_X: 22
+Square_Y: 594
+
+#Squares
+
+Square_Type: Element
+Square_X: 22
+Square_Y: 616
+
+#Squares
+
+Square_Type: Element
+Square_X: 22
+Square_Y: 638
+
+#Squares
+
+Square_Type: Element
+Square_X: 44
+Square_Y: 594
+
+#Squares
+
+Square_Type: Element
+Square_X: 44
+Square_Y: 616
+
+#Squares
+
+Square_Type: Element
+Square_X: 44
+Square_Y: 638
+
+#Squares
+
+Square_Type: Element
+Square_X: 66
+Square_Y: 594
+
+#Squares
+
+Square_Type: Element
+Square_X: 66
+Square_Y: 616
+
+#Squares
+
+Square_Type: Element
+Square_X: 66
+Square_Y: 638
+
+#Squares
+
+Square_Type: Element
+Square_X: 176
+Square_Y: 528
+
+#Squares
+
+Square_Type: Element
+Square_X: 198
+Square_Y: 528
+
+#Squares
+
+Square_Type: Element
+Square_X: 220
+Square_Y: 528
+
+#Squares
+
+Square_Type: Element
+Square_X: 242
+Square_Y: 528
+
+#Squares
+
+Square_Type: Element
+Square_X: 264
+Square_Y: 528
+
+#Squares
+
+Square_Type: Element
+Square_X: 286
+Square_Y: 528
+
+#Squares
+
+Square_Type: Element
+Square_X: 286
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 308
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 330
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 330
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 352
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 374
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 396
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 418
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 440
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 462
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 484
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 506
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 528
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 550
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 550
+Square_Y: 594
+
+#Squares
+
+Square_Type: Element
+Square_X: 572
+Square_Y: 264
+
+#Squares
+
+Square_Type: Element
+Square_X: 572
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 572
+Square_Y: 308
+
+#Squares
+
+Square_Type: Element
+Square_X: 572
+Square_Y: 330
+
+#Squares
+
+Square_Type: Element
+Square_X: 572
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 572
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 572
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 572
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 594
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 616
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 638
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 682
+Square_Y: 484
+
+#Squares
+
+Square_Type: Element
+Square_X: 704
+Square_Y: 484
+
+#Squares
+
+Square_Type: Element
+Square_X: 726
+Square_Y: 484
+
+#Squares
+
+Square_Type: Element
+Square_X: 748
+Square_Y: 484
+
+#Squares
+
+Square_Type: Armament
+Square_X: 770
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 770
+Square_Y: 396
+
+#Squares
+
+Square_Type: Element
+Square_X: 770
+Square_Y: 418
+
+#Squares
+
+Square_Type: Element
+Square_X: 770
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 770
+Square_Y: 462
+
+#Squares
+
+Square_Type: Element
+Square_X: 770
+Square_Y: 484
+
+#Squares
+
+Square_Type: Element
+Square_X: 792
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 814
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 836
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 858
+Square_Y: 198
+
+#Squares
+
+Square_Type: Element
+Square_X: 858
+Square_Y: 220
+
+#Squares
+
+Square_Type: Element
+Square_X: 858
+Square_Y: 242
+
+#Squares
+
+Square_Type: Element
+Square_X: 858
+Square_Y: 264
+
+#Squares
+
+Square_Type: Element
+Square_X: 858
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 946
+Square_Y: 264
+
+#Squares
+
+Square_Type: Element
+Square_X: 946
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 968
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 990
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1012
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1034
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1056
+Square_Y: 264
+
+#Squares
+
+Square_Type: Element
+Square_X: 1056
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1078
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1100
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1122
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1144
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1166
+Square_Y: 264
+
+#Squares
+
+Square_Type: Element
+Square_X: 1166
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1232
+Square_Y: 176
+
+#Squares
+
+Square_Type: Element
+Square_X: 1232
+Square_Y: 198
+
+#Squares
+
+Square_Type: Element
+Square_X: 1232
+Square_Y: 220
+
+#Squares
+
+Square_Type: Element
+Square_X: 1232
+Square_Y: 242
+
+#Squares
+
+Square_Type: Element
+Square_X: 1232
+Square_Y: 264
+
+#Squares
+
+Square_Type: Element
+Square_X: 1232
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1254
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1276
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1298
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1320
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1320
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1342
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1364
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1386
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1408
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1430
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1452
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1474
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1496
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1518
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1540
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1562
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1584
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1606
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1628
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1650
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 1694
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1716
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1738
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1760
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1782
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1804
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1826
+Square_Y: 286
+
+#Squares
+
+Square_Type: Element
+Square_X: 1914
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 1936
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 1958
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 1980
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2002
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2024
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2024
+Square_Y: 462
+
+#Squares
+
+Square_Type: Element
+Square_X: 2046
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2068
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2156
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2178
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2200
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2200
+Square_Y: 484
+
+#Squares
+
+Square_Type: Element
+Square_X: 2200
+Square_Y: 506
+
+#Squares
+
+Square_Type: Element
+Square_X: 2200
+Square_Y: 528
+
+#Squares
+
+Square_Type: Element
+Square_X: 2200
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 2222
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2222
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 2244
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2244
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 2266
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2266
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 2266
+Square_Y: 572
+
+#Squares
+
+Square_Type: Element
+Square_X: 2288
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2288
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 2288
+Square_Y: 396
+
+#Squares
+
+Square_Type: Element
+Square_X: 2288
+Square_Y: 418
+
+#Squares
+
+Square_Type: Element
+Square_X: 2288
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2288
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 2310
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 2332
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 2354
+Square_Y: 484
+
+#Squares
+
+Square_Type: Element
+Square_X: 2354
+Square_Y: 506
+
+#Squares
+
+Square_Type: Element
+Square_X: 2354
+Square_Y: 528
+
+#Squares
+
+Square_Type: Element
+Square_X: 2354
+Square_Y: 550
+
+#Squares
+
+Square_Type: Element
+Square_X: 2398
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2420
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2442
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2442
+Square_Y: 374
+
+#Squares
+
+Square_Type: Element
+Square_X: 2442
+Square_Y: 396
+
+#Squares
+
+Square_Type: Element
+Square_X: 2442
+Square_Y: 418
+
+#Squares
+
+Square_Type: Element
+Square_X: 2442
+Square_Y: 440
+
+#Squares
+
+Square_Type: Element
+Square_X: 2464
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2486
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2508
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2530
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2552
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2574
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2596
+Square_Y: 352
+
+#Squares
+
+Square_Type: Element
+Square_X: 2618
+Square_Y: 352
+
+#END
